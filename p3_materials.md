@@ -39,6 +39,6 @@ This means you can get your testers online and providing meaningful data within 
     -   As Currency conversions use live exchange rates, this feature cannot have auto-graded questions.
     -   As stated above, the math test is auto-shuffled to improve data validity.
 ## Testing Materials
-![Google form without extension](https://docs.google.com/forms/d/108sYytUurFzgU9FJrG8OgYAZ18uqIdGC2cNH_7b6e4Y/edit?usp=sharing)
+[Google form without extension](https://docs.google.com/forms/d/108sYytUurFzgU9FJrG8OgYAZ18uqIdGC2cNH_7b6e4Y/edit?usp=sharing)
 <br>
-![Google form with extension](https://docs.google.com/forms/d/16mkOVU0O_fzDhNIpuOv54SLz9qvuyV27IkKPMgQlLzs/edit?usp=sharing)
+[Google form with extension](https://docs.google.com/forms/d/16mkOVU0O_fzDhNIpuOv54SLz9qvuyV27IkKPMgQlLzs/edit?usp=sharing)
