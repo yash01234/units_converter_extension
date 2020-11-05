@@ -37,8 +37,15 @@ This means you can get your testers online and providing meaningful data within 
 -   Notes:
     -   Upon transfer of this project, we will duplicate the Google Forms resources and send them to your team to own.
     -   As Currency conversions use live exchange rates, this feature cannot have auto-graded questions.
-    -   As stated above, the math test is auto-shuffled to improve data validity.
+    
 ## Testing Materials
-[Google form without extension](https://forms.gle/PM4niyMLndGBgMDS8)
+### Quizzes
+[Google form without extension](https://forms.gle/iLR7pnQmWkTWYFpBA)
 <br>
-[Google form with extension](https://forms.gle/sixbK7vnYzH5PLNd9)
+[Google form with extension](https://forms.gle/n3SDNhPE5p5eDbZJ6)
+
+The first quiz has a link to the second.
+
+### Time Tracking
+We will record the time it took each participant to answer each question in seconds. To capture this, we will copy their participation token into another sheet and later combine our quizzes and our observation sheet for our anaylsis. We will use this [Google sheet](https://docs.google.com/spreadsheets/d/1ELbdBy0VkcmrFD7b4gYCQ_V5RlJtX6giR6ps5TzmwQY/edit?usp=sharing) to record times.
+
